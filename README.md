@@ -1,2 +1,2 @@
 # mygames
-https://oishi-mio.github.io/mygames/game.html 
+https://oihi-mio.github.io/mygames/game.html 
